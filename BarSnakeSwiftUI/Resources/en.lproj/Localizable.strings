@@ -1,0 +1,22 @@
+"menu_start_game" = "Start game";
+"menu_quit_game" = "Quit game";
+
+"game_final_score" = "Final score:";
+"game_restart" = "Restart game";
+"game_resume" = "Resume";
+"game_back_to_menu" = "Back to menu";
+
+"preferences_title" = "Preferences";
+"preferences_section_visual" = "Visual";
+"preferences_section_key_binding" = "Key binding";
+"preferences_snake_color" = "Snake color";
+"preferences_field_color" = "Field color";
+"preferences_grid_color" = "Grid color";
+"preferences_is_grid_hidden" = "Is grid hidden";
+"preferences_field_size_type" = "Field size";
+"preferences_field_size_type_small" = "Small";
+"preferences_field_size_type_normal" = "Normal";
+"preferences_field_size_type_large" = "Large";
+"preferences_key_binding_type" = "Type of control";
+"preferences_key_binding_type_arrow" = "Arrows";
+"preferences_key_binding_type_wasd" = "WASD";

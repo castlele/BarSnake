@@ -1,0 +1,3 @@
+protocol MainMenuViewModelProtocol {
+    func quitApplication()
+}

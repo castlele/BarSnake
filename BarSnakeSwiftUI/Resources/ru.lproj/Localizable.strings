@@ -1,0 +1,22 @@
+"menu_start_game" = "Начать игру";
+"menu_quit_game" = "Выйти из игры";
+
+"game_final_score" = "Финальный счёт:";
+"game_restart" = "Начать заново";
+"game_resume" = "Возобновить игру";
+"game_back_to_menu" = "Вернуться в меню";
+
+"preferences_title" = "Настройки";
+"preferences_section_visual" = "Визуал";
+"preferences_section_key_binding" = "Сочетания клавишь";
+"preferences_snake_color" = "Цвет змеи";
+"preferences_field_color" = "Цвет поля";
+"preferences_grid_color" = "Цвет сетки";
+"preferences_is_grid_hidden" = "Сетка спрятана?";
+"preferences_field_size_type" = "Размер поля";
+"preferences_field_size_type_small" = "Маленькое поле";
+"preferences_field_size_type_normal" = "Стандартное поле";
+"preferences_filed_size_type_large" = "Большое поле";
+"preferences_key_binding_type" = "Тип управления";
+"preferences_key_binding_type_arrow" = "Стрелки";
+"preferences_key_binding_type_wasd" = "WASD";
