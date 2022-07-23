@@ -39,6 +39,7 @@
 		D989E1B42872D41B0065F428 /* CommandButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D989E1B32872D41B0065F428 /* CommandButton.swift */; };
 		D989E1B62872E7110065F428 /* FoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D989E1B52872E7110065F428 /* FoodView.swift */; };
 		D989E1B92872E9600065F428 /* FoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D989E1B82872E9600065F428 /* FoodModel.swift */; };
+		D989FE2E288C402F00BE5F64 /* TitleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = D989FE2D288C402F00BE5F64 /* TitleText.swift */; };
 		D9AB711528706F62007728FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AB711428706F62007728FC /* AppDelegate.swift */; };
 		D9AB711928706F63007728FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9AB711828706F63007728FC /* Assets.xcassets */; };
 		D9AB712528707155007728FC /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AB712428707155007728FC /* MainMenu.swift */; };
@@ -86,6 +87,7 @@
 		D989E1B32872D41B0065F428 /* CommandButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandButton.swift; sourceTree = "<group>"; };
 		D989E1B52872E7110065F428 /* FoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodView.swift; sourceTree = "<group>"; };
 		D989E1B82872E9600065F428 /* FoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodModel.swift; sourceTree = "<group>"; };
+		D989FE2D288C402F00BE5F64 /* TitleText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleText.swift; sourceTree = "<group>"; };
 		D9AB711128706F62007728FC /* BarSnakeSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarSnakeSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9AB711428706F62007728FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9AB711828706F63007728FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 		D9053A5D2879A3780016C403 /* BaseViews */ = {
 			isa = PBXGroup;
 			children = (
+				D989FE2C288C402F00BE5F64 /* Text */,
 				D9053A7B2879E0BA0016C403 /* ImageSelectable */,
 				D9053A742879DD450016C403 /* ToolBarView */,
 				D989E1B22872D4060065F428 /* CommandButton */,
@@ -232,6 +235,14 @@
 				D989E1B82872E9600065F428 /* FoodModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		D989FE2C288C402F00BE5F64 /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				D989FE2D288C402F00BE5F64 /* TitleText.swift */,
+			);
+			path = Text;
 			sourceTree = "<group>";
 		};
 		D9AB710828706F62007728FC = {
@@ -473,6 +484,7 @@
 				D9AB713E2870895A007728FC /* GameFieldView.swift in Sources */,
 				D9AB71392870866B007728FC /* GameView.swift in Sources */,
 				D9AB7128287071C7007728FC /* App.swift in Sources */,
+				D989FE2E288C402F00BE5F64 /* TitleText.swift in Sources */,
 				D989E1B92872E9600065F428 /* FoodModel.swift in Sources */,
 				D952EBA928722B0B0012451C /* SnakeView.swift in Sources */,
 				D9053A6D2879CAC70016C403 /* PreferencesRowView.swift in Sources */,
